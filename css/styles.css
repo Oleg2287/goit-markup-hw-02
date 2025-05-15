@@ -5,8 +5,7 @@ body{
     }
 
     ul, ol{
-        list-style-type: none;
-        background-color: #fff;
+        list-style-type: none;        
     }
 
     a{
@@ -76,7 +75,11 @@ body{
     .section-our-team{
         background-color: #F4F4FD;
         }
-         
+        
+    .item{
+        background-color: #fff;
+    }
+
     .section-name{
         text-transform: capitalize;
         font-weight: 700;
