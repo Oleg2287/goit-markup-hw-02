@@ -51,7 +51,7 @@ body{
     .section-main{
         background-color: #2e2f42;
     }
-    h1{
+    .mine-title{
         font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
@@ -68,20 +68,19 @@ body{
         background-color: #4d5ae5;
         cursor: pointer;
     }
-    .order-button:hover
-    {
+    .order-button:hover, .order-button:focus{
         background-color: #404bbf;
     }
-    
-              
+                 
     .section-name{
-            font-weight: 700;
-            font-size: 36px;
-            line-height: 1.11111;
-            letter-spacing: 0.02em;
-            text-align: center;
-            color: #2e2f42;
-    }
+        text-transform: capitalize;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+        }
     
         .title {
                 font-weight: 500;
