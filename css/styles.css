@@ -76,6 +76,11 @@ body{
         background-color: #F4F4FD;
         }
 
+    .list-our-team{
+        background-color: #FFFFFF;
+        }
+        
+
     .section-name{
         text-transform: capitalize;
         font-weight: 700;
@@ -84,7 +89,6 @@ body{
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-        background-color: #FFFFFF
         }
     
         .title {
@@ -101,7 +105,7 @@ body{
                 line-height: 1.5;
                 letter-spacing: 0.02em;
                 color: #434455;
-          }
+                }
                       
     .footer .logo-part-footer {
                 color: #f4f4fd; 
